@@ -66,11 +66,10 @@ Once I logged into the virtual machine, I downloaded the remaining required soft
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KbKIWDr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After preparing the virtual machine, I installed the remaining prerequisites and configured everything needed for osTicket to function properly. This included setting up the required programs, adding the necessary files, and creating the database that the system relies on. 
-</p>
+After preparing the virtual machine, I installed the remaining prerequisites and configured everything needed for osTicket to function properly. 
 <br />
 
 
