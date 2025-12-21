@@ -53,7 +53,7 @@ This outlines the prerequisites and installation of the open-source help desk ti
 <img src="https://i.imgur.com/VHBDzwm.png"nheight="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-i began by creating a Azure account and signing in. From there, I set up a new resource group and deployed a Windows 10 virtual machine. After the VM was successfully created, I located its public IP address, which allowed me to connect to the virtual machine through Remote Desktop Protocol (RDP)
+I began by creating a Azure account and signing in. From there, I set up a new resource group and deployed a Windows 10 virtual machine. After the VM was successfully created, I located its public IP address, which allowed me to connect to the virtual machine through Remote Desktop Protocol (RDP)
 </p>
 <br />
 
