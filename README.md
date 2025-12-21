@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
+
 <p align="center"
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
@@ -17,9 +21,11 @@ This outlines the prerequisites and installation of the open-source help desk ti
 - Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+<h2>Operating/Applications Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 (21H2)
+- Azure
+- (osTicket, Azure Storage, Azure Virtual Machines)</b> 
 
 <h2>List of Prerequisites</h2>
 
@@ -41,7 +47,7 @@ This outlines the prerequisites and installation of the open-source help desk ti
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png"nheight="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 i began by creating a Azure account and signing in. From there, I set up a new resource group and deployed a Windows 10 virtual machine. After the VM was successfully created, I located its public IP address, which allowed me to connect to the virtual machine through Remote Desktop Protocol (RDP)
@@ -49,7 +55,7 @@ i began by creating a Azure account and signing in. From there, I set up a new r
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gallery/rdp-access-KgLz5nY" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once I logged into the virtual machine, I downloaded the remaining required software and configured the necessary permissions to ensure the osTicket application could run properly.
