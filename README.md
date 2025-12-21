@@ -65,10 +65,4 @@ Once I logged into the virtual machine, I downloaded the remaining required soft
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-After completing the installation, I was able to set up and configure the help desk ticketing system. I tested the platform by operating in multiple roles: as an administrator assigning permissions, as an agent with limited access, and as a customer submitting support requests. This allowed me to validate the full workflow from ticket creation to resolution.
-</p>
-<br />
+
