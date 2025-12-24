@@ -82,16 +82,36 @@ Here I was installing the Rewriting Module. After I created the Directory PHP on
 <img src="https://i.imgur.com/iE3gX58.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next I installed and provisioned SQL database an I Set up an admin account.
+Next I installed and provisioned SQL database, an I Set up an admin account.
 <p>
+<p>
+<img src="https://i.imgur.com/2CQSMLR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/xJIqnmO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After I registered the PHP from within the IIS, There I was able to nativagte to the the PHP directory I made up earlier. 
 <br />
+<p>
+<img src="https://i.imgur.com/BkWcmCg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+I restarted the IIS, Then I had to add the folder into the C drive. I had to rename it. here I am editing the directory for osTicket, and finshing the install and the final edits.
+<br />
+<p>
+<img src="https://i.imgur.com/wPGMJcF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now I have osTicket installed, I now am provisioning the needed extentions 
+<br />
+<p>
+<img src="https://i.imgur.com/PuVWUs2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here ords
-<br />
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/M0bMl95.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
