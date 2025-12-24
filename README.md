@@ -69,7 +69,7 @@ First I was start by setting up IIS. Then I began to install IIS with CGI (Commo
 <img src="https://i.imgur.com/QIN0rj4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here I was installing the Rewriting Module. After I created the Directory PHP on the C drive. Then extracted the intallation files in the diectorty folder. after I installed other arburtraies that were needed. 
+Here I installed the URL Rewriting Module after creating the PHP directory on the C drive. Once the required dependencies were installed, I extracted the module’s installation files into that directory
 </p>
 <br />
 <p>
@@ -82,7 +82,7 @@ Here I was installing the Rewriting Module. After I created the Directory PHP on
 <img src="https://i.imgur.com/iE3gX58.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next I installed and provisioned SQL database, an I Set up an admin account.
+Next, I installed and provisioned the SQL database, and then set up an administrator account.
 <p>
 <p>
 <img src="https://i.imgur.com/2CQSMLR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -91,25 +91,25 @@ Next I installed and provisioned SQL database, an I Set up an admin account.
 <img src="https://i.imgur.com/xJIqnmO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After I registered the PHP from within the IIS, There I was able to nativagte to the the PHP directory I made up earlier. 
+After I registered the PHP from within the IIS, I was able to nativagte to the the PHP directory I made up earlier. 
 <br />
 <p>
 <img src="https://i.imgur.com/BkWcmCg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I restarted the IIS, Then I had to add the folder into the C drive. I had to rename it. here I am editing the directory for osTicket, and finshing the install and the final edits.
+“I restarted IIS and then added the required folder to the C drive, renaming it as needed. From there, I edited the osTicket directory and completed the installation along with the final configuration changes.
 <br />
 <p>
 <img src="https://i.imgur.com/wPGMJcF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now I have osTicket installed, I now am provisioning the needed extentions 
+Now that osTicket is installed, I’m provisioning the required PHP extensions
 <br />
 <p>
 <img src="https://i.imgur.com/PuVWUs2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qv0Khpq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <img src="https://i.imgur.com/M0bMl95.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
