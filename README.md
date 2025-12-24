@@ -34,14 +34,12 @@ This outlines the prerequisites and installation of the open-source help desk ti
     - Establish a Remote Desktop Protocol (RDP) connection to the virtual machine.
     - Provisioning administrative access for software installation and system configuration.
  
-- Insstalation of all required software components and to deploy the osTicket application.
+- Installation of all required software components and to deploy the osTicket application.
     - windows IIS With CGI
     - PHP Manger for IIS
     - SQL database and provisioning
-    - 
 
 <h2>Installation Steps</h2>
-
 
 <p>
  I began by creating an Azure account and signing in. From there, I created a new resource group and deployed a Windows 10 virtual machine. After the VM finished provisioning, I retrieved its public IP address and used it to connect via Remote Desktop Protocol (RDP). Once logged into the VM, I downloaded the necessary files and extracted the contents of the compressed folders.
