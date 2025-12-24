@@ -31,45 +31,67 @@ This outlines the prerequisites and installation of the open-source help desk ti
 
 - Provision a Windows 10 virtual machine in Microsoft Azure.
     - The VM will serve as the host environment for installing and running osTicket.
-      
-- Establish a Remote Desktop Protocol (RDP) connection to the virtual machine.
-    - This provides administrative access for software installation and system configuration.
+    - Establish a Remote Desktop Protocol (RDP) connection to the virtual machine.
+    - Provisioning administrative access for software installation and system configuration.
  
-- Install all required software components and deploy the osTicket application.
-    - This includes configuring both Agent and Administrator roles within the system.
-      
-- Perform functional testing and implement helpdesk ticket workflows.
-    - Validate that ticket creation, assignment, and communication processes operate as expected.
-      
--  Resolve and close test tickets to confirm end‑to‑end system functionality.
-    - This ensures the helpdesk environment is fully operational and ready for production use.
+- Insstalation of all required software components and to deploy the osTicket application.
+    - windows IIS With CGI
+    - PHP Manger for IIS
+    - SQL database and provisioning
+    - 
 
 <h2>Installation Steps</h2>
 
+
 <p>
-<img src="https://i.imgur.com/Ra3YyoG.png"nheight="80%" width="80%" alt="Disk Sanitization Steps"/>
+ I began by creating an Azure account and signing in. From there, I created a new resource group and deployed a Windows 10 virtual machine. After the VM finished provisioning, I retrieved its public IP address and used it to connect via Remote Desktop Protocol (RDP). Once logged into the VM, I downloaded the necessary files and extracted the contents of the compressed folders.
 </p>
+<br />
+
 <p>
 <img src="https://i.imgur.com/VHBDzwm.png"nheight="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I began by creating a Azure account and signing in. From there, I set up a new resource group and deployed a Windows 10 virtual machine. After the VM was successfully created, I located its public IP address, which allowed me to connect to the virtual machine through Remote Desktop Protocol (RDP)
-</p>
-<br />
-
-<p>
 <img src="https://i.imgur.com/vGaKcxZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once I logged into the virtual machine, I downloaded the remaining required software and configured the necessary permissions to ensure the osTicket application could run properly.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/KbKIWDr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EM3yvhG.png"nheight="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After preparing the virtual machine, I installed the remaining prerequisites and configured everything needed for osTicket to function properly. 
+Once I was in the vm I then had a set of tools that I needed to install and instrutions I had to follow.
+First I was start by setting up IIS. Then I began to install IIS with CGI (Common Gateway Interface). After, I installed the PHP manger for IIS. 
+</p>
 <br />
-
+<p>
+<img src="https://i.imgur.com/kit3pZ0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/QIN0rj4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here I was installing the Rewriting Module. After I created the Directory PHP on the C drive. Then extracted the intallation files in the diectorty folder. after I installed other arburtraies that were needed. 
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/VFAMHIl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/mfqLcml.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/iE3gX58.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next I installed and provisioned SQL database an I Set up an admin account.
+<p>
+<br />
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here ords
+<br />
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
