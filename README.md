@@ -7,7 +7,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. osTicket is an open‑source support ticketing system designed to streamline customer service operations. It centralizes inquiries from email, web forms, and APIs into a single, organized dashboard. I successfully created both agent and administrator accounts within a virtual testing environment, generated business‑related and basic support tickets, and gained hands‑on experience performing administrative tasks, including configuring user permissions and managing access to accounts and files.<br />
+This outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. osTicket is an open‑source support ticketing system designed to streamline customer service operations. It centralizes inquiries from email, web forms, and APIs into a single, organized dashboard. 
 
 
 <h2>Video Demonstration</h2>
