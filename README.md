@@ -103,15 +103,26 @@ After I registered the PHP from within the IIS, I was able to nativagte to the t
 <img src="https://i.imgur.com/wPGMJcF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now that osTicket is installed, I’m provisioning the required PHP extensions
+Now that osTicket is installed, I’m enabling the required PHP extensions, then I will Finsh the set up in the browser. 
 <br />
 <p>
 <img src="https://i.imgur.com/PuVWUs2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/qv0Khpq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 <img src="https://i.imgur.com/M0bMl95.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
+<p>
+ I am now going to set up my HelpDesk, install Heidi SQL and Create a new database. This will finish out my installation of osTIcket.  
+<br />
+<p>
+<img src="https://i.imgur.com/jUD3H0n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/mH6x8i8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/kDR4i96.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/9vblwye.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
